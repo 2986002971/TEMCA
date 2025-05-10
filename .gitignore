@@ -1,0 +1,7 @@
+data/*
+work_dir/*
+*.pyc
+
+# pixi environments
+.pixi
+*.egg-info
